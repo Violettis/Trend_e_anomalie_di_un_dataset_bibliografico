@@ -9,6 +9,8 @@ La parte esplorativa si concentra su particolari variabili del dataset originale
 
 Sulla base di ciò, la sezione esplicativa parte con l'analisi della rilevanza che le biblioteche e la bibliografia hanno all'interno degli argomenti; procede poi guardando ai possibili legami tra gli argomenti e i generi degli autori. Infine, l'attenzione si concentra sui due autori più prolifici per genere: Alfredo Serrai e Fiammetta Sabba. Dopo averli analizzati nel dettaglio, si confonta anche se i risultati corrispondono a quanto ottenuto nella parte esplorativa.
 # Quali sono i risultati?
+
+# Fonte dei dati 
 I dati in input sono costituiti da un file CSV contenente informazioni costituite da metadati descrittivi di pubblicazioni scientifiche di tipo bibliografico. Le variabili considerate sono:
 
 | Variabile | Tipo |	Definizione | Esempio |
@@ -30,8 +32,6 @@ I dati in input sono costituiti da un file CSV contenente informazioni costituit
 |url_disponibili|str| URL per individuare la pubblicazione su Internet|https://aibstudi.aib.it/article/view/13415
 
 Link al dataset: https://raw.githubusercontent.com/dhdmch/2025-2026/refs/heads/main/data/lispod/data.csv 
-# Fonte dei dati 
-
 # Metodi e strumenti 
 
 # Responsabili 
