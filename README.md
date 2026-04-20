@@ -18,4 +18,4 @@ Sulla base di ciò, la sezione esplicativa parte con l'analisi della rilevanza c
 * Fabbri, Viola
 * Gaiani, Alice
 # Licenza 
-I dati di input e il codice di output (incluso in questo Notebook) sono rilasciati sotto licenza [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+I dati di input e il codice di output (incluso in questo Notebook) sono rilasciati sotto licenza [CC0 1.0 Universal.](https://creativecommons.org/publicdomain/zero/1.0/)
