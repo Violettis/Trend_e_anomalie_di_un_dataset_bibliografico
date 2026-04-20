@@ -17,7 +17,7 @@ I dati in input sono costituiti da un file CSV contenente informazioni costituit
 | :------- | :--- | :--------- | :------ |
 |   id     |	str | Codice identificativo rappresentato dal link wikidata.org | 	http://www.wikidata.org/entity/Q136593329 |
 |titolo |str|Titolo della pubblicazione|La mia biblioteca|
-|autori | str| Autore/i della pubblicazione separati da ;, con rispettivo genere tra parentesi tonde| Alfredo Serrai
+|autori | str| Autore/i della pubblicazione separati da ;| Alfredo Serrai
 |genere_autori|str| Genere dell'autore o del team di autori costituito da tre possibilità: Maschile, Femminile o Misto| Femminile
 | data_pubblicazione | int| Anno della pubblicazione in numero| 1994
 |argomenti|str| Argomenti della pubblicazione separati da ;|Associazione; Bibliotecario
