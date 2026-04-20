@@ -11,27 +11,7 @@ Sulla base di ciò, la sezione esplicativa parte con l'analisi della rilevanza c
 # Quali sono i risultati?
 
 # Fonte dei dati 
-I dati in input sono costituiti da un file CSV contenente informazioni costituite da metadati descrittivi di pubblicazioni scientifiche di tipo bibliografico. Le variabili considerate sono:
 
-| Variabile | Tipo |	Definizione | Esempio |
-| :------- | :--- | :--------- | :------ |
-|   id     |	str | Codice identificativo rappresentato dal link wikidata.org | 	http://www.wikidata.org/entity/Q136593329 |
-|titolo |str|Titolo della pubblicazione|La mia biblioteca|
-|autori | str| Autore/i della pubblicazione separati da ;| Alfredo Serrai
-|genere_autori|str| Genere dell'autore o del team di autori costituito da tre possibilità: Maschile, Femminile o Misto| Femminile
-| data_pubblicazione | int| Anno della pubblicazione in numero| 1994
-|argomenti|str| Argomenti della pubblicazione separati da ;|Associazione; Bibliotecario
-|basi_dati|str|Banche dati da cui si sono attinte le informazioni|Scopus; DOAJ; Emerging Sources Citation Index
-|doi_disponibili|str| Identificativo persistente della pubblicazione digitale per la sua ricerca sul web|10.53223/SINAPPSI_2024-01-5
-|editori | str| Editore della pubblicazione| Associazione Italiana Biblioteche
-|licenze_rivista|str| Licenze della rivista separate da ;|Creative Commons Attribution
-|rivista|str| Rivista su cui trovare la pubblicazione|Bibliothecae.it
-|edizione|int| Numero dell'edizione a cui appartiene la pubblicazione|55
-|volume|int|Numero della manifestazione fisica in cui la pubblicazione si trova|135
-|pagine|int| Numero di pagine della pubblicazione |19
-|url_disponibili|str| URL per individuare la pubblicazione su Internet|https://aibstudi.aib.it/article/view/13415
-
-Link al dataset: https://raw.githubusercontent.com/dhdmch/2025-2026/refs/heads/main/data/lispod/data.csv 
 # Metodi e strumenti 
 
 # Responsabili 
