@@ -1,0 +1,1 @@
+# Trend_e_anomalie_di_un_dataset_bibliografico
