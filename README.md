@@ -29,7 +29,7 @@ I dati in input sono costituiti da un file CSV contenente informazioni costituit
 |pagine|int| Numero di pagine della pubblicazione |19
 |url_disponibili|str| URL per individuare la pubblicazione su Internet|https://aibstudi.aib.it/article/view/13415
 
-Link al dataset: [(https://raw.githubusercontent.com/dhdmch/2025-2026/refs/heads/main/data/lispod/data.csv)]
+Link al dataset: [https://raw.githubusercontent.com/dhdmch/2025-2026/refs/heads/main/data/lispod/data.csv]
 # Fonte dei dati 
 
 # Metodi e strumenti 
