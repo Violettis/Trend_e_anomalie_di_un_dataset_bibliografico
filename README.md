@@ -13,7 +13,7 @@ Sulla base di ciò, la sezione esplicativa parte con l'analisi della rilevanza c
 Le conclusioni sui risultati ottenuti, contenuti nel Jupyter Notebook, possono essere divise sulla base dell'analisi esplorativa e esplicativa.
 
 Dall'analisi esplorativa le conclusioni evidenziano:
-* Una copertura temporale ampia, dal 1816 al 2025, con un notevole aumento delle pubblicazioni negli ultimi 20 anni; il picco massimo è stato raggiunto nel 2020.
+* Una copertura temporale ampia, dal 1816 al 2025, con un notevole aumento delle pubblicazioni negli ultimi 10 anni; il picco massimo è stato raggiunto nel 2020.
 * L'editore più ricorrente è l'Associazione Italiana Biblioteche, che conta oltre 500 pubblicazioni.
 * L'argomento maggiormente trattato è quello "Bibliotecario", ripetuto oltre 110 volte.
 * Non notiamo una significativa distinzione di genere: gli uomini, da soli o in team dello stesso genere, sembrano pubblicare più delle donne per pochi punti percentuali. Inoltre, i team misti non sono popolari: compongono meno dell'8% dei casi totali.
@@ -34,7 +34,7 @@ Focalizzandoci sui due autori più prolifici per ciascun genere, si scopre che:
   * Partecipa a pubblicazioni realizzate in team, dimostrando l'andamento del genere femminile maggiormente portato alla scrittura a più mani, ma non ha una particolare propensione per team omogenei o eterogenei per sesso;
   * L'anno in cui pubblica di più è il 2016, dimostrandosi anch'essa non in linea con l'analisi generale; nemmeno l'anno in cui prende maggiormente parte a pubblicazioni in team, il 2021, corrisponde;
   * L'argomento di cui pubblica di più è la "Storia della bibliografia", allineandosi a Serrai ma non alla tendenza del suo genere di appartenenza. Per quanto riguarda le pubblicazioni in team misti, riprende gli argomenti comunemente trattati da questa categoria, ma non scrive dell'eccezione "lavoro" precedentemente individuata.
-  * Anche per lei l'editore più ricorrende è l'UNIBO, non partecipando al trend generale dell'AIB, ma coincide con il comportamento di Serrai. Anche quando è in team l'editore più frequente non è l'AIB.
+  * Anche per lei l'editore più ricorrente è l'Università di Bologna, non partecipando al trend generale dell'Associazione Italiana Bibblioteche, ma coincide con il comportamento di Serrai. Anche quando è in team l'editore più frequente non è l'Associazione Italiana Biblioteche.
 Le indagini, basate sulle scelte effettuata, hanno prodotto delle interessanti riflessioni sull'operato di alcuni autori e sugli argomenti maggiormente studiati; non hanno, però, evidenziato trend consistenti né anomalie consistenti all'interno del database.
 
 # Fonte dei dati 
