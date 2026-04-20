@@ -13,7 +13,7 @@ Sulla base di ciò, la sezione esplicativa parte con l'analisi della rilevanza c
 Le conclusioni sui risultati ottenuti, contenuti nel Jupyter Notebook, possono essere divise sulla base dell'analisi esplorativa e esplicativa.
 
 Dall'analisi esplorativa le conclusioni evidenziano:
-* Una copertura temporale ampia, dal 1816 al 2025, con un notevole aumento delle pubblicazioni negli ultimi 10 anni; il picco massimo è stato raggiunto nel 2020.
+* Una copertura temporale ampia, dal 1816 al 2025, con un notevole aumento delle pubblicazioni negli ultimi 15 anni; il picco massimo è stato raggiunto nel 2020.
 * L'editore più ricorrente è l'Associazione Italiana Biblioteche, che conta oltre 500 pubblicazioni.
 * L'argomento maggiormente trattato è quello "Bibliotecario", ripetuto oltre 110 volte.
 * Non notiamo una significativa distinzione di genere: gli uomini, da soli o in team dello stesso genere, sembrano pubblicare più delle donne per pochi punti percentuali. Inoltre, i team misti non sono popolari: compongono meno dell'8% dei casi totali.
