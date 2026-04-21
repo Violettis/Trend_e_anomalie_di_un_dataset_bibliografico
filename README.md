@@ -1,7 +1,7 @@
 # Trend_e_anomalie_di_un_dataset_bibliografico
 
 # DOI
-[(10.5281/zenodo.19675959)]
+[![DOI](https://zenodo.org/badge/1215970953.svg)](https://doi.org/10.5281/zenodo.19675958)
 # Descrizione 
 Il progetto consiste nell'analisi esplorativa ed esplicativa di un dataset costituito da metadati descrittivi di pubblicazioni scientifiche di tipo bibliografico.
 
