@@ -1,4 +1,4 @@
-# Trend e anomalie di un dataset bibliografico
+# Trend_e_anomalie_di_un_dataset_bibliografico
 
 # DOI
 
